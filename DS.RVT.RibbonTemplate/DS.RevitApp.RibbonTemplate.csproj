@@ -64,6 +64,9 @@
   <ItemGroup>
     <None Include="DS.RevitApp.RibbonTemplate.addin" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="ProjectDescription.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>xcopy /Y  "$(TargetDir)*.*" "$(AppData)\Autodesk\Revit\Addins\2020\$(TargetName)\" 

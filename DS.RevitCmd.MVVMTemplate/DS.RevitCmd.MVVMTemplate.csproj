@@ -78,6 +78,9 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="ProjectDescription.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>xcopy /Y  "$(TargetDir)*.*" "C:\ProgramData\Autodesk\Revit\Addins\2020\$(TargetName)\" 
