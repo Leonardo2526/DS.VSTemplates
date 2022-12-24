@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>DS.RevitApp.Template</Name>
+		<Assembly>DS.RevitApp.Template\DS.RevitApp.Template.dll</Assembly>
+		<ClientId>54297494-096b-4039-912a-5bcb7f056b64</ClientId>
+		<FullClassName>DS.RevitApp.Template.ExternalApplication</FullClassName>
+		<VendorId>DS</VendorId>
+	</AddIn>
+</RevitAddIns>

@@ -1,0 +1,12 @@
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitCmd.MVVMTemplate\bin\Debug\DS.RevitCmd.MVVMTemplate.dll
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitCmd.MVVMTemplate\bin\Debug\DS.RevitCmd.MVVMTemplate.pdb
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitCmd.MVVMTemplate\obj\Debug\DS.RevitCmd.MVVMTemplate.csproj.AssemblyReference.cache
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitCmd.MVVMTemplate\obj\Debug\DS.WPF.Dictionary.baml
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitCmd.MVVMTemplate\obj\Debug\StartWindow.g.cs
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitCmd.MVVMTemplate\obj\Debug\DS.RevitCmd.MVVMTemplate_MarkupCompile.cache
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitCmd.MVVMTemplate\obj\Debug\DS.RevitCmd.MVVMTemplate_MarkupCompile.lref
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitCmd.MVVMTemplate\obj\Debug\StartWindow.baml
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitCmd.MVVMTemplate\obj\Debug\DS.RevitCmd.MVVMTemplate.g.resources
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitCmd.MVVMTemplate\obj\Debug\DS.RevitCmd.MVVMTemplate.csproj.CoreCompileInputs.cache
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitCmd.MVVMTemplate\obj\Debug\DS.RevitCmd.MVVMTemplate.dll
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitCmd.MVVMTemplate\obj\Debug\DS.RevitCmd.MVVMTemplate.pdb
