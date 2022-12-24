@@ -1,0 +1,6 @@
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitApp.Template\bin\Debug\DS.RevitApp.Template.dll
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitApp.Template\bin\Debug\DS.RevitApp.Template.pdb
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitApp.Template\obj\Debug\DS.RevitApp.Template.csproj.AssemblyReference.cache
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitApp.Template\obj\Debug\DS.RevitApp.Template.csproj.CoreCompileInputs.cache
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitApp.Template\obj\Debug\DS.RevitApp.Template.dll
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitApp.Template\obj\Debug\DS.RevitApp.Template.pdb

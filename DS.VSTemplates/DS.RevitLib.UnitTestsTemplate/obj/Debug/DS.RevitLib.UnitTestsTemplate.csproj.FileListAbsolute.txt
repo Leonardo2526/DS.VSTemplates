@@ -1,0 +1,11 @@
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitLib.UnitTestsTemplate\bin\Debug\DS.RevitLib.UnitTestsTemplate.dll
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitLib.UnitTestsTemplate\bin\Debug\DS.RevitLib.UnitTestsTemplate.pdb
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitLib.UnitTestsTemplate\bin\Debug\nunit.framework.dll
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitLib.UnitTestsTemplate\bin\Debug\RevitTestFrameworkTypes.dll
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitLib.UnitTestsTemplate\bin\Debug\RTFRevit.dll
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitLib.UnitTestsTemplate\bin\Debug\nunit.framework.xml
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitLib.UnitTestsTemplate\obj\Debug\DS.RevitLib.UnitTestsTemplate.csproj.AssemblyReference.cache
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitLib.UnitTestsTemplate\obj\Debug\DS.RevitLib.UnitTestsTemplate.csproj.CoreCompileInputs.cache
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitLib.UnitTestsTemplate\obj\Debug\DS.RevitLib.UnitTestsTemplate.csproj.CopyComplete
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitLib.UnitTestsTemplate\obj\Debug\DS.RevitLib.UnitTestsTemplate.dll
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitLib.UnitTestsTemplate\obj\Debug\DS.RevitLib.UnitTestsTemplate.pdb

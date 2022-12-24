@@ -1,0 +1,6 @@
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RVT.RibbonTemplate\bin\Debug\DS.RevitApp.RibbonTemplate.dll
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RVT.RibbonTemplate\bin\Debug\DS.RevitApp.RibbonTemplate.pdb
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RVT.RibbonTemplate\obj\Debug\DS.RevitApp.RibbonTemplate.csproj.AssemblyReference.cache
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RVT.RibbonTemplate\obj\Debug\DS.RevitApp.RibbonTemplate.csproj.CoreCompileInputs.cache
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RVT.RibbonTemplate\obj\Debug\DS.RevitApp.RibbonTemplate.dll
+E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RVT.RibbonTemplate\obj\Debug\DS.RevitApp.RibbonTemplate.pdb

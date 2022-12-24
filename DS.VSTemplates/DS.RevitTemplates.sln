@@ -7,6 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.RevitCmd.Template", "DS.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.RevitLib.Template", "DS.RevitLib.Template\DS.RevitLib.Template.csproj", "{A102B5A8-5E00-4A94-995C-C70D74CABF60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.RevitApp.Template", "DS.RevitApp.Template\DS.RevitApp.Template.csproj", "{4ACA3974-17D1-4532-B37D-5D0EA0D3BD57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.RevitCmd.MVVMTemplate", "DS.RevitCmd.MVVMTemplate\DS.RevitCmd.MVVMTemplate.csproj", "{5D25D077-1925-4853-8CD0-A76FDC06BD79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.RevitLib.UnitTestsTemplate", "DS.RevitLib.UnitTestsTemplate\DS.RevitLib.UnitTestsTemplate.csproj", "{DC67A871-3B93-4DBD-9E1C-C12122488989}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.RevitApp.RibbonTemplate", "DS.RVT.RibbonTemplate\DS.RevitApp.RibbonTemplate.csproj", "{689C0016-4413-44EF-9F68-5F8738DA5873}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +29,22 @@ Global
 		{A102B5A8-5E00-4A94-995C-C70D74CABF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A102B5A8-5E00-4A94-995C-C70D74CABF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A102B5A8-5E00-4A94-995C-C70D74CABF60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ACA3974-17D1-4532-B37D-5D0EA0D3BD57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ACA3974-17D1-4532-B37D-5D0EA0D3BD57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ACA3974-17D1-4532-B37D-5D0EA0D3BD57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ACA3974-17D1-4532-B37D-5D0EA0D3BD57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D25D077-1925-4853-8CD0-A76FDC06BD79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D25D077-1925-4853-8CD0-A76FDC06BD79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D25D077-1925-4853-8CD0-A76FDC06BD79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D25D077-1925-4853-8CD0-A76FDC06BD79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC67A871-3B93-4DBD-9E1C-C12122488989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC67A871-3B93-4DBD-9E1C-C12122488989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC67A871-3B93-4DBD-9E1C-C12122488989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC67A871-3B93-4DBD-9E1C-C12122488989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{689C0016-4413-44EF-9F68-5F8738DA5873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689C0016-4413-44EF-9F68-5F8738DA5873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689C0016-4413-44EF-9F68-5F8738DA5873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689C0016-4413-44EF-9F68-5F8738DA5873}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

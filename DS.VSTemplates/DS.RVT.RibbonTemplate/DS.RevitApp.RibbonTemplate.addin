@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>DS.RevitApp.RibbonTemplate</Name>
+		<Assembly>DS.RevitApp.RibbonTemplate\DS.RevitApp.RibbonTemplate.dll</Assembly>
+		<ClientId>eb5039f3-4cf8-46d5-9d1e-f821b9a637aa</ClientId>
+		<FullClassName>DS.RevitApp.RibbonTemplate.ExternalApplication</FullClassName>
+		<VendorId>DS</VendorId>
+	</AddIn>
+</RevitAddIns>
