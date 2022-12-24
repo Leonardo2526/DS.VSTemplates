@@ -1,7 +1,0 @@
-E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitLib.Template\bin\Debug\DS.RevitLib.Template.xml
-E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitLib.Template\bin\Debug\DS.RevitLib.Template.dll
-E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitLib.Template\bin\Debug\DS.RevitLib.Template.pdb
-E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitLib.Template\obj\Debug\DS.RevitLib.Template.csproj.AssemblyReference.cache
-E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitLib.Template\obj\Debug\DS.RevitLib.Template.csproj.CoreCompileInputs.cache
-E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitLib.Template\obj\Debug\DS.RevitLib.Template.dll
-E:\Repository\DS.VSTemplates\DS.VSTemplates\DS.RevitLib.Template\obj\Debug\DS.RevitLib.Template.pdb
