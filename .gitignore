@@ -3,3 +3,7 @@
 ################################################################################
 
 /DS.VSTemplates/.vs/DS.RevitTemplates/v17/.suo
+bin/
+
+*.suo
+/.vs/DS.RevitTemplates/FileContentIndex
