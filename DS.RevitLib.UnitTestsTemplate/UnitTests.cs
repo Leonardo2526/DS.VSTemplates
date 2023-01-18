@@ -9,8 +9,11 @@ using System.Threading.Tasks;
 
 namespace DS.RevitLib.UnitTestsTemplate
 {
+    /// <summary>
+    /// Unit test class for Revit plugins
+    /// </summary>
     [TestFixture]
-    public class TypesOfTests
+    public class UnitTests
     {
         [SetUp]
         public void Setup()
@@ -19,6 +22,7 @@ namespace DS.RevitLib.UnitTestsTemplate
 
 
         [Test]
+        [TestModel(@"")]
         public void MethodName_Scenario_ExpectedBehaviour()
         {
 
